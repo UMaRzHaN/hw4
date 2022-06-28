@@ -1,0 +1,91 @@
+body {
+    background-image: url(../img/bg.jpeg);
+    background-repeat: no-repeat;
+    background-color: blanchedalmond;
+}
+.rightpic{
+    float: right;
+    height: 600px;
+    width: 800px;
+    margin: 0 0 5px 5 px;
+}
+.rightpic2{
+    float: right;
+    height: 500px;
+    width: 800px;
+    margin: 0 0 5px 5 px;
+}
+.leftpic2{
+    float: left;
+    margin: 0 0 5px 5px;
+}
+.leftpic{
+    height: 50px;
+    width: 50px;    
+    float: left;
+    margin: 0 0 5px 5px;
+}
+p{
+    font-size: 20px;
+    color: darkred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.p1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: crimson;
+    font-size: 30px;
+}
+.u1{
+font-size: 70px;
+color: indigo;
+font-style: italic;
+}
+img{
+font-size: 20%;
+}
+hr{
+    color: darkorange;
+}
+h2{
+    font-size: 30px;
+    color: coral;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.h2{
+    float: left;
+    font-size: 30px;
+    color: coral;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.image {
+	position	: relative;
+	width		: 100%; /* for IE 6 */
+}
+a{
+    color: coral;
+}
+.righttext{
+text-align: right;
+}
+.h21{
+    font-size: 50px;
+}
+.new{
+    height: 30px;
+    width: 30px;
+}
+.r{
+    height: 50px;
+    width: 50px;
+}
+.small{
+    color: rgb(red, green, blue);
+    font-size: 30px;
+}
+.new2{
+    height: 450px;
+    width: 650px;
+}
